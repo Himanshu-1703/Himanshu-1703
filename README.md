@@ -6,7 +6,7 @@
 Email - himanshu1703@gmail.com                           
 GitHub - [github.com/Himanshu-1703](github.com/Himanshu-1703)
   
-I thrive on the thrill of learning, and I firmly believe in being a lifelong learner. This mindset drives me to constantly seek knowledge and explore new domains. When it comes to data analysis, data science, statistics, and Python coding, my enthusiasm knows no bounds. Let's embark on an exciting data-driven journey and create something remarkable together!
+I thrive on the thrill of learning, and I firmly believe in being a lifelong learner. This mindset drives me to constantly seek knowledge and explore new domains. When it comes to Data Analysis, Data Science, Statistics and Python coding, my enthusiasm knows no bounds. Let's embark on an exciting data-driven journey and create something remarkable together!
 <!---
 Himanshu-1703/Himanshu-1703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
